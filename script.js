@@ -29,13 +29,13 @@ miss you ... tuzya peksha hi jast sobatche divas khup miss krto... but hoil sava
 
 all the best
 
-ani he chochlate enjoy kr... yacha pn ek bhari seen zhalay aaj coincidence asel pn itke ki vichru nko.. aso punha train track sodel.
+ani he chochlates enjoy kr... yacha pn ek bhari seen zhalay aaj coincidence asel pn itke ki vichru nko.. aso punha train track sodel.
 
 byy
 
 Congrats once again and all the best yaar....`,
 
-`are ajun ek hot office no vrun unblock kr ky udya jashil te tasch rahil ani koni baghitl tr tula vichrl vaigre chukun tu ugach tuzya life madhe nav yeych maz bfe mdhun gelyavr pn mhnun...
+`are ajun ek hot office no vr block ahe I guess. tu jashil ani te tasch rahil ani koni baghitl tr tula vichrl vaigre chukun tula tr ugach tuzya life madhe nav yeych maz bfe mdhun gelyavr pn mhnun...
 
 chal aata pakka byy
 
