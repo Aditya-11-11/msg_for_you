@@ -119,5 +119,15 @@ async function startMessage() {
     cursor.style.animation = "blink 1s infinite";
 }
 
+const continueBtn = document.getElementById("continueBtn");
+const intro = document.getElementById("intro");
+const messagePage = document.getElementById("messagePage");
 
-startMessage();
+continueBtn.addEventListener("click", () => {
+
+    intro.style.display = "none";
+    messagePage.style.display = "block";
+
+    startMessage();
+
+});
