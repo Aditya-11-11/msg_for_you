@@ -1,3 +1,53 @@
+/* Intro Screen */
+
+#intro {
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 30px;
+    text-align: center;
+}
+
+.intro-content {
+    max-width: 500px;
+}
+
+.intro-content h1 {
+    font-size: 30px;
+    font-weight: 400;
+    margin-bottom: 18px;
+}
+
+.intro-content p {
+    font-size: 16px;
+    line-height: 1.7;
+    margin-bottom: 30px;
+    opacity: 0.75;
+}
+
+#continueBtn {
+    padding: 12px 30px;
+    border: 1px solid #292929;
+    background: transparent;
+    color: #292929;
+    border-radius: 25px;
+    font-size: 15px;
+    cursor: pointer;
+    transition: 0.3s ease;
+}
+
+#continueBtn:hover {
+    background: #292929;
+    color: white;
+}
+
+
+/* Hide message initially */
+
+#messagePage {
+    display: none;
+}
 
 * {
     margin: 0;
