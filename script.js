@@ -11,9 +11,11 @@ Congratulations.....
 
 finally Ex-BFE banteys, I belive changlach job bhetala asel. mala aavdhel janun gheyla konti company konti post etc etc jr tu zhalel srw thod bajula thevun sangu shklis tr ani nhi sangitls tri thik ahe... Evdh srw zhalyavr punha khi mala share karav as nhi vadhnar tula so its okk.`,
 
-`tula asa samj hoil aata ki me tuzi chowkshi keli pn me khrch tuzi direct kiva indirect kashich chowkshi keli nhwti jevha mala he gosht samjali, Me thoda surprice zhalo ani aanad pn zhala finally bfe mdhun sutlis mhnun. Call kela hota tevha fdss madhl kon kon gel he bolt astana samorunch mala sangitl ki tu dekhil resign kelays as. trust tr nasel mazyavr tya movie chya goshti mule karn te goshti ftk tin janana mahit hoti tyat tu swtha ahes ani jagdish sir jyani nhi sangitl tuzyamate so urlo mich pn tri please possible asel tr vishwas thev hyavr.
+`tula asa samj hoil aata ki me tuzi chowkshi keli pn me khrch tuzi direct kiva indirect kashich chowkshi keli nhwti. Jevha mala he gosht samjali, Me thoda surprice zhalo ani aanad pn zhala finally bfe mdhun sutlis mhnun. Call kela hota tevha fdss madhl kon kon gel he bolt astana samorunch mala sangitl ki tu dekhil resign kelays as.
+Trust nasel mazyavr tya movie chya goshti mule karn te goshti ftk tin janana mahit hoti tyat tu swtha ahes ani jagdish sir jyani nhi sangitl hyachi tula gurrenty ahe so urlo mich pn tri please possible asel tr vishwas thev hyavr.
 
-me naav nahi ghetlay konakadhun kalal te pn jr tula vishawas nasel basat mazyavr te naav dekhil sangel. aata nhi bolloy karn ragat tyla bolyla gelis tr te mhnle me ithli gosht tidhe krto jyacha mala tri kahich frk nhi padat unless and untill tu ahes.`,
+me naav nahi ghetlay konakadhun kalal te, pn jr tula vishawas nasel basat mazyavr tr te naav dekhil sangel.
+aata nhi sangtey karn ragat tyla bolyla gelis tr te mhnle me ithli gosht tidhe krto jyacha mala tri kahich frk nhi padat unless and untill tu ahes.`,
 
 `Aso zhal khup khi... srw visrun navin survat kruya ka, unblock kr as nhi bolnar.. te deserve nsel krt me. Kush raha. Navin job new life new collegues new location enjoy kr
 
